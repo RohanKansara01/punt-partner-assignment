@@ -10,7 +10,6 @@ https://punt-partner-assignment.vercel.app/
 ## Tech Stack:-
 - Reactjs
 - Typescript
-- JavaScript
 - HTML
 - CSS
 
